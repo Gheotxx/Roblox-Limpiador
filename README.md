@@ -17,7 +17,7 @@ Con esto, tu instalación de Roblox queda completamente limpia, evitando fallos 
 
 ## 📦 Instalación
 1. Descarga la última versión desde la sección [Releases](https://github.com/Gheotxx/Roblox-Limpiador/releases/tag/Limpiador).  
-2. Extrae los archivos (si viene en `.zip`).  
+2. Extrae los archivos (si viene en `.rar`).  
 3. Ejecuta el archivo **RobloxCleaner.exe**. 
 
 # 🔒 Seguridad: 
@@ -28,7 +28,7 @@ Con esto, tu instalación de Roblox queda completamente limpia, evitando fallos 
 
 ## 🖥️ Uso
 1. Activa las funciones que utilizaras.  
-2. Haz clic en **"Proceder** una vez hayas habilitado las funciones.  
+2. Haz clic en **"Proceder"** una vez hayas habilitado las funciones.  
 3. Espera a que finalice el proceso.  
 4. Roblox quedará libre de residuos. 
 ---
