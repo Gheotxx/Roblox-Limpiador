@@ -32,7 +32,7 @@ Con esto, tu instalación de Roblox queda completamente limpia, evitando fallos 
 3. Espera a que finalice el proceso.  
 4. Roblox quedará libre de residuos. 
 ---
-- Limpiador :
+
 ![Logo](https://i.imgur.com/ymlLvrL.png)
 
 ---
