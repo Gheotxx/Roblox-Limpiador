@@ -17,7 +17,7 @@ Con esto, tu instalación de Roblox queda completamente limpia, evitando fallos 
 
 ## 📦 Instalación
 1. Descarga la última versión desde la sección [Releases](https://github.com/TU-USUARIO/REPO/releases).  
-2. Extrae los archivos (si viene en `.zip`).  
+2. Extrae los archivos (si viene en `.rar`).  
 3. Ejecuta el archivo **RobloxCleaner.exe**. 
 
 ---
