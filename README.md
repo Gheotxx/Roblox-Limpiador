@@ -16,7 +16,7 @@ Con esto, tu instalación de Roblox queda completamente limpia, evitando fallos 
 ---
 
 ## 📦 Instalación
-1. Descarga la última versión desde la sección [Releases]([https://github.com/Gheotxx/REPO/releases](https://github.com/Gheotxx/Roblox-Limpiador/releases/tag/Limpiador).  
+1. Descarga la última versión desde la sección [Releases](https://github.com/Gheotxx/Roblox-Limpiador/releases/tag/Limpiador).  
 2. Extrae los archivos (si viene en `.zip`).  
 3. Ejecuta el archivo **RobloxCleaner.exe**. 
 
